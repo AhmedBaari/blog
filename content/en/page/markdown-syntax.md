@@ -1,13 +1,13 @@
 ---
 author: "Hugo Authors"
 title: "Markdown Syntax Guide"
-description: "Beispielartikel, der die grundlegende Markdown-Syntax und Formatierung für HTML-Elemente zeigt."
-tags: ["markdown", "css", "html"]
+description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+tags: []
 date: 2021-07-14
 thumbnail: https://picsum.photos/id/1019/500/200
 ---
 
-Dieser Artikel bietet ein Beispiel für die grundlegende Markdown-Syntax, die in Hugo-Inhaltsdateien verwendet werden kann, und zeigt auch, ob grundlegende HTML-Elemente mit CSS in einem Hugo-Theme dekoriert sind.
+This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 
 <!--more-->
 

@@ -3,7 +3,7 @@ author: "Hugo Authors"
 title: "Placeholder Text"
 date: 2021-07-13
 description: "Lorem Ipsum Dolor Si Amet"
-tags: ["markdown", "text"]
+tags: []
 thumbnail: /blog-post.jpg
 ---
 

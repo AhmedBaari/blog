@@ -3,6 +3,10 @@ body {
   font-family: "Inter", sans-serif;
 }
 
+.text-sm {
+  text-align: center;
+}
+
 /* Fonts */
 
 /* inter-300 - latin */
