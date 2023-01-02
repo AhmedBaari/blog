@@ -14,7 +14,6 @@ description: "Short description of your article in less than 40 words"
 tags: ["a keyword for your article", "another keyword"]
 date: YYYY-MM-DD
 thumbnail: https://some-site.com/your-image-link-here.jpg
-
 ---
 
 Article content here.
