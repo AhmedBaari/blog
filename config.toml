@@ -1,6 +1,6 @@
 baseurl = "https://baari.me/"
 metaDataFormat = "yaml"
-title = "Happy new year 2023!"
+title = "The Baari Blog"
 theme = "blist"
 
 DefaultContentLanguage = "en"
@@ -11,7 +11,7 @@ DefaultContentLanguageInSubdir = false
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "The Baari Blog - Baari's Curiosity Unleashed"
+      introTitle = "The Baari.me Blog- Baari's Curiosity Unleashed"
       introSubtitle = "Step into the mind of a curious university student as I delve into the mysteries of the world and share my findings with you. With the commencement of 2023, the baari.me website and blog officially begins."
       introPhoto = "/2023-intro.png"
       logo = "/baari-me-horizontal.png"
