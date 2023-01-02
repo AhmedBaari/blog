@@ -1,4 +1,4 @@
-baseurl = "https://blog.baari.me/"
+baseurl = "https://baari.me/"
 metaDataFormat = "yaml"
 title = "The Baari Blog"
 theme = "blist"
