@@ -1,6 +1,6 @@
 baseurl = "https://baari.me/"
 metaDataFormat = "yaml"
-title = "The Baari Blog"
+title = "baari.me"
 theme = "blist"
 
 DefaultContentLanguage = "en"
@@ -11,10 +11,10 @@ DefaultContentLanguageInSubdir = false
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Welcome to The Baari Blog"
-      introSubtitle = "18 y/o junior developer who enjoys programming, social media, blogging and managing communities"
-      introPhoto = "/Baari-Blog-Horizontal.png"
-      logo = "/Baari-Blog-Horizontal.png"
+      introTitle = "Happy new year 2023!"
+      introSubtitle = "With the commencement of 2023, the baari.me website and blog officially begins. Check out the blog posts below and have fun!"
+      introPhoto = "https://png.pngtree.com/png-vector/20220111/ourmid/pngtree-gradient-white-2023-png-image_225670.png"
+      logo = "/baari-me-horizontal.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -99,7 +99,7 @@ DefaultContentLanguageInSubdir = false
   enableSearch = true
 
   # Custom copyright - optional
-  copyright = "Copyright © 2022 - Baari + Aayush · All rights reserved"
+  copyright = "Copyright © 2023 - Baari.me and The Baari Projects · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -120,15 +120,15 @@ DefaultContentLanguageInSubdir = false
 
 [params.homepage.social]
   # Global params common for both languages
-  title = "Baari.me and Friends"
-  description = "Learn more about our other projects"
+  title = "You can contribute to Baari.me blog too!"
+  description = "Take this opportunity now by messaging Baari at https://go.baari.me/social/instagram/"
  # twitter = "https://twitter.com/"
  # linkedin = "https://linkedin.com/in/"
  # xing = "https://www.xing.com/profile/"
  # github = "https://github.com/"
  # medium = "https://medium.com/"
-#  reddit = "https://reddit.com/"
-#  dribbble = "https://dribbble.com/"
+ #  reddit = "https://reddit.com/"
+ #  dribbble = "https://dribbble.com/"
  # stackoverflow = "https://stackoverflow.com/"
 
 [[menu.main]]

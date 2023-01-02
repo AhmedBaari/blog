@@ -1,6 +1,6 @@
 ---
 author: Ahmed Baari
-title: Home of Katheryn Fox
-date: 2021-07-15
+title: baari.me
+date: 2023-01-01
 ---
 
