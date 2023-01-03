@@ -39,12 +39,12 @@ Baari is being guided by **Thavendran Sir** from School Of Computing, SASTRA Uni
 ## Club Activities in SASTRA
 
 ### Tech Odyssey 2022
-Baari had participated in [**Tech Odyssey 2022**](https://github.com/dcs-sastra/TechOdyssey-22) organized by [**Developer Community SASTRA**](https://github.com/dcs-sastra/). He contributed by working on data cleaning and pre-processing. You can view it below:
+Baari had participated in [Tech Odyssey 2022](https://github.com/dcs-sastra/TechOdyssey-22) organized by [Developer Community SASTRA](https://github.com/dcs-sastra/). He contributed by working on data cleaning and pre-processing. You can view it below:
 
  ↗️ [Baari's Contribution to Tech Odysey 2022](https://github.com/AhmedBaari/Python-Beginners)
 
 ### Google Cloud Campaign
-Baari is working on The [Google Cloud Campaign](https://www.cloudskillsboost.google/paths/11) hosted by [**GDSC SASTRA**](https://gdsc.community.dev/sastra-deemed-university-thanjavur/)
+Baari is working on The [Google Cloud Campaign](https://www.cloudskillsboost.google/paths/11) hosted by [GDSC SASTRA](https://gdsc.community.dev/sastra-deemed-university-thanjavur/)
 
 ### Content Creation at SALVO
 Baari has contributed to SALVO by creating it's first social media post. It is about the **VAR Technology used at FIFA WC 2022**. View the content [here](https://www.canva.com/design/DAFToWo9fFo/mPQ8-oxMDdGTJQKMyLp3VA/view)
