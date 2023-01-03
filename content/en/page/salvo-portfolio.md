@@ -1,9 +1,9 @@
 ---
 author: Ahmed Baari
 title: SALVO Interview Portfolio
+date: 2023-01-04
 description: "Ahmed Baari is a 1st year student aspiring to be a data scientist. He is currently learning Machine Learning, Aurdino (IoT), C and backend web development."
 tags: ["sastra", "portfolio", "salvo"]
-date: 2023-01-04
 thumbnail: ../../meta-brand.png
 ---
 
