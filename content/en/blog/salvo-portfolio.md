@@ -5,6 +5,7 @@ date: 2023-01-04
 description: "Ahmed Baari is a 1st year student currently learning Machine Learning, Aurdino, C and backend web development."
 tags: ["sastra", "portfolio", "salvo"]
 thumbnail: ../../meta-brand.png
+
 ---
 
 ## About Ahmed Baari
