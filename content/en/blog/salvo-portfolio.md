@@ -1,11 +1,10 @@
 ---
 author: "Ahmed Baari"
-title: "SALVO Interview Portfolio"
-date: 2023-01-04
-description: "Ahmed Baari is a 1st year student currently learning Machine Learning, Aurdino, C and backend web development."
-tags: ["sastra", "portfolio", "salvo"]
-thumbnail: ../../meta-brand.png
-
+title: "The Via Discord Bot has been launched"
+description: "Via is a discord bot that automatically gives roles to actively texting members, members in voice channels and members with a custom status that supports the server. Via also comes with Anonymous Confessions, a feature that works best in private or friendship servers."
+tags: ["via", "discord"]
+date: 2022-09-20
+thumbnail: ../../via_service_banner.png
 ---
 
 ## About Ahmed Baari
