@@ -4,7 +4,7 @@ title: "Baari's SALVO Interview Portfolio"
 description: ""
 tags: []
 date: 2022-09-20
-thumbnail: ../../via_service_banner.png
+thumbnail: ../../meta-brand.png
 ---
 
 ## About Ahmed Baari
