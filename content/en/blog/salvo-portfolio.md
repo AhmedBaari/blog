@@ -1,8 +1,8 @@
 ---
 author: "Ahmed Baari"
-title: "The Via Discord Bot has been launched"
-description: "Via is a discord bot that automatically gives roles to actively texting members, members in voice channels and members with a custom status that supports the server. Via also comes with Anonymous Confessions, a feature that works best in private or friendship servers."
-tags: ["via", "discord"]
+title: "Baari's SALVO Interview Portfolio"
+description: ""
+tags: []
 date: 2022-09-20
 thumbnail: ../../via_service_banner.png
 ---
