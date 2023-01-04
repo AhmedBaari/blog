@@ -3,13 +3,13 @@ author: "Ahmed Baari"
 title: "Baari's SALVO Interview Portfolio"
 description: ""
 tags: []
-date: 2022-12-12
+date: 2022-12-31
 thumbnail: ../../meta-brand.png
 ---
 
 ## About Me
 
-I am a 1st year student who has had a lifelong interest in the field of computers since childhood. At SASTRA University, I am currently pursuing a B.Tech in Computer Science with a specialization in Artificial Intelligence and Data Science.
+I am a 1st year student who has had a lifelong interest in the field of computers. At SASTRA University, I am currently pursuing a B.Tech in Computer Science with a specialization in Artificial Intelligence and Data Science.
 
 I am aspiring to be a data scientist and currently learning Machine Learning, Aurdino (IoT), C and backend web development. 
 
@@ -20,7 +20,7 @@ I am renowned for my communication skills and believe that teamwork and healthy 
 
 ### Mathematics
 
-I do well in the area of **probability** and comprehending problems involving **Linear Equations in 3 Variables** as far as the Class 10, 11 and 12 portions of CBSE is concerned.
+I do well in the area of **probability** and comprehending problems involving **Linear Equations in 3 Variables** as far as the CBSE portion of classes 10, 11 and 12 is concerned.
 
 ### Python
 
@@ -30,11 +30,11 @@ I am well aware of python at a basic level. I was recently introduced to pandas 
 
 ### Machine Learning
 
-I am aware about the basic theory of Machine Learning including it's classifications. I know about the types of supervised machine learning. But, I do not have hands on experience in any.
+I am aware about the basic theory of Machine Learning including it's classifications. I know about the types of supervised machine learning. But, I do not have firsthand experience in any.
 
 ### Guidance
 
-I am being guided by **Thavendran Sir** from The School Of Computing, SASTRA University to learn Machine Learning. 
+I am being guided by **Thavendran Sir** from The School Of Computing to learn Machine Learning at SASTRA University.
 
 ## Club Activities in SASTRA
 
