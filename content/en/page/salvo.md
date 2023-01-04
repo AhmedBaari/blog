@@ -3,55 +3,55 @@ author: "Ahmed Baari"
 title: "Baari's SALVO Interview Portfolio"
 description: ""
 tags: []
-date: 2022-09-20
+date: 2022-12-12
 thumbnail: ../../meta-brand.png
 ---
 
-## About Ahmed Baari
+## About Me
 
-Ahmed Baari is a 1st year student who has a deep interest in the computers field since childhood. He is currently pursuing B.Tech Computer Science with specialization in Artificial Intelligence and Data Science at SASTRA University, Thanjavur.
+I am a 1st year student who has had a lifelong interest in the field of computers since childhood. At SASTRA University, I am currently pursuing a B.Tech in Computer Science with a specialization in Artificial Intelligence and Data Science.
 
-Baari is aspiring to be a data scientist. He is currently learning Machine Learning, Aurdino (IoT), C and backend web development. 
+I am aspiring to be a data scientist and currently learning Machine Learning, Aurdino (IoT), C and backend web development. 
 
-Baari is known for his communication skills and believes that teamwork and healthy collaboration is the golden key to achieving success.
+I am renowned for my communication skills and believe that teamwork and healthy collaboration is the golden key to achieving success.
 
 
 ## The Machine Learning Field
 
 ### Mathematics
 
-Baari is good in the field of **probability** and understanding problems related to **linear equations in 3 variables** as far as the Class 10, 11 and 12 portions of CBSE is concerned.
+I do well in the area of **probability** and comprehending problems involving **Linear Equations in 3 Variables** as far as the Class 10, 11 and 12 portions of CBSE is concerned.
 
 ### Python
 
-Baari is well aware of python at a basic level. He was recently introduced to pandas and numpy libraries, although more work is required there. You can have a look at his python learning repository here:
+I am well aware of python at a basic level. I was recently introduced to pandas and numpy libraries, although more work is required to be done there. You can have a look at my python learning repository here:
 
  ↗️ [AhmedBaari/Python-Beginners](https://github.com/AhmedBaari/Python-Beginners)
 
 ### Machine Learning
 
-Baari knows about the basic theory of Machine Learning include it's classifications. He knows about the types of supervised machine learning. But, he does not have hands on experience in any.
+I am aware about the basic theory of Machine Learning including it's classifications. I know about the types of supervised machine learning. But, I do not have hands on experience in any.
 
 ### Guidance
 
-Baari is being guided by **Thavendran Sir** from School Of Computing, SASTRA University to learn Machine Learning. 
+I am being guided by **Thavendran Sir** from The School Of Computing, SASTRA University to learn Machine Learning. 
 
 ## Club Activities in SASTRA
 
 ### Tech Odyssey 2022
-Baari had participated in [Tech Odyssey 2022](https://github.com/dcs-sastra/TechOdyssey-22) organized by [Developer Community SASTRA](https://github.com/dcs-sastra/). He contributed by working on data cleaning and pre-processing. You can view it below:
+I had participated in [Tech Odyssey 2022](https://github.com/dcs-sastra/TechOdyssey-22) organized by [Developer Community SASTRA](https://github.com/dcs-sastra/). I contributed by working on data cleaning and pre-processing. You can view it below:
 
- ↗️ [Baari's Contribution to Tech Odysey 2022](https://github.com/AhmedBaari/Python-Beginners)
+ ↗️ [My contribution to Tech Odysey 2022](https://github.com/AhmedBaari/Python-Beginners)
 
 ### Google Cloud Campaign
-Baari is working on The [Google Cloud Campaign](https://www.cloudskillsboost.google/paths/11) hosted by [GDSC SASTRA](https://gdsc.community.dev/sastra-deemed-university-thanjavur/)
+I am working on The [Google Cloud Campaign](https://www.cloudskillsboost.google/paths/11) hosted by [GDSC SASTRA](https://gdsc.community.dev/sastra-deemed-university-thanjavur/)
 
 ### Content Creation at SALVO
-Baari has contributed to SALVO by creating it's first social media post. It is about the **VAR Technology used at FIFA WC 2022**. View the content [here](https://www.canva.com/design/DAFToWo9fFo/mPQ8-oxMDdGTJQKMyLp3VA/view)
+I have contributed to SALVO by creating it's first social media post. It is about the **VAR Technology used at FIFA WC 2022**. View the content [here](https://www.canva.com/design/DAFToWo9fFo/mPQ8-oxMDdGTJQKMyLp3VA/view)
 
 
 ## Other Projects
-- ↗️ [Developing an app for his school (specifically the server side)](https://dps.baari.me/) (starting in Feb)
+- ↗️ [Developing an app for my school (specifically the server side)](https://dps.baari.me/) (starting in Feb)
 - ↗️ [Via Discord Bot (40,000 users)](https://via.baari.me/)
 - ↗️ [The Baari.me Blog (Starting now)](https://baari.me/)
 - ↗️ [Join the support server](https://discord.gg/JzD9dARK)

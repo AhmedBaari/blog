@@ -120,8 +120,8 @@ DefaultContentLanguageInSubdir = false
 
 [params.homepage.social]
   # Global params common for both languages
-  title = "You can contribute to Baari.me blog too!"
-  description = "Take this opportunity now by messaging Baari at https://go.baari.me/social/instagram/"
+  title = "Welcome to the Baari Blog!"
+  description = "Step into the mind of a curious university student as I delve into the mysteries of the world and share my findings with you. With the commencement of 2023, the baari.me website and blog officially begins."
  # twitter = "https://twitter.com/"
  # linkedin = "https://linkedin.com/in/"
  # xing = "https://www.xing.com/profile/"
